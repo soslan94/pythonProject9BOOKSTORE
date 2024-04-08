@@ -1,0 +1,25 @@
+{% extends 'books/base.html' %}
+{% block title %}
+    Books list
+{% endblock %}
+
+
+{% block body %}
+    <h1> Books: </h1>
+    {% if books %}
+        <div>
+            {% for book in books %}
+            <div>
+                <p><a href="{% url 'books:book-detail' pk=book.pk %}">Название книги: {{ book.title }} </a></p>
+                <p>Автор: {{ book.author }}</p>
+                <p>Год: {{ book.year }}</p>
+
+            </div>
+            {% endfor %}
+        </div>
+
+    {% else %}
+        <p>no books</p>
+    {% endif %}
+
+{% endblock %}

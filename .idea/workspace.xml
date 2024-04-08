@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="24c331a2-a911-4b94-bdc2-77a5fdbeebbb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/PycharmProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/.idea/pythonProject1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/.idea/pythonProject2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/.venv/bin/python" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/.venv/bin/python3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/.venv/bin/python3.10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/.venv/pyvenv.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject3/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject3/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject3/.idea/pythonProject3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject4/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject4/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject4/.idea/pythonProject4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject4/eshop/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject4/eshop/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject4/eshop/store/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject4/eshop/store/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject4/eshop/store/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject4/eshop/store/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject4/eshop/store/migrations/0004_remove_orderitem_date_remove_orderitem_order_and_more.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject4/eshop/store/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject4/eshop/store/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject4/eshop/store/templates/store/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject4/eshop/store/templates/store/order-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject4/eshop/store/templates/store/store.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject4/eshop/store/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject4/eshop/store/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject4/eshop/store/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject4/eshop/uploads/jc9kvyks8p5034xenqhlgrwofpqoxwmr.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject5/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject5/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject5/.idea/pythonProject5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject6/.idea/pythonProject6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject6/tree/menus/templates/menus/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject6/tree/menus/templates/menus/menu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject6/tree/menus/templates/menus/something.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject6/tree/menus/templatetags/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject6/tree/menus/templatetags/menus_extras.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject6/tree/menus/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject7/.idea/pythonProject7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject7tgbot/.idea/pythonProject7tgbot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject7tgbot/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pythonProject9BOOKSTORE.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProjectDjango_Stripe_Test/.idea/pythonProjectDjango_Stripe_Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProjectDjango_Stripe_Test/mysite/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProjectDjango_Stripe_Test/mysite/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProjectDjango_Stripe_Test/mysite/docker-compose.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProjectDjango_Stripe_Test/mysite/shopapp/templates/shopapp/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProjectDjango_Stripe_Test/mysite/shopapp/templates/shopapp/cancel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProjectDjango_Stripe_Test/mysite/shopapp/templates/shopapp/item-detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProjectDjango_Stripe_Test/mysite/shopapp/templates/shopapp/items-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProjectDjango_Stripe_Test/mysite/shopapp/templates/shopapp/order_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProjectDjango_Stripe_Test/mysite/shopapp/templates/shopapp/order_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProjectDjango_Stripe_Test/mysite/shopapp/templates/shopapp/success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProjectDjango_Stripe_Test/mysite/shopapp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject_Django_Stripe/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject_Django_Stripe/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject_Django_Stripe/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject_Django_Stripe/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject_Django_Stripe/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject_Django_Stripe/.idea/pythonProject_Django_Stripe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject_Django_Stripe/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject_Django_Stripe/shopapp/templates/shopapp/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject_Django_Stripe/shopapp/templates/shopapp/cancel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject_Django_Stripe/shopapp/templates/shopapp/item-detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject_Django_Stripe/shopapp/templates/shopapp/items-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject_Django_Stripe/shopapp/templates/shopapp/success.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore/requirements.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2eiu6y7alQ7XkXcPWfBSn4rCPKH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24c331a2-a911-4b94-bdc2-77a5fdbeebbb" name="Changes" comment="" />
+      <created>1712399548200</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712399548200</updated>
+    </task>
+    <servers />
+  </component>
+</project>

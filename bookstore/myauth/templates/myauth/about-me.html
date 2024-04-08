@@ -1,0 +1,37 @@
+{% extends 'myauth/base.html' %}
+
+{% load i18n %}
+
+{% load cache %}
+
+{% block title %}
+    about me
+{% endblock %}
+
+{% block body %}
+    <h1>user info</h1>
+    <div>
+        products available: {% now 'u' %}
+    </div>
+    {% if user.is_authenticated %}
+        {% cache 300 userinfo user.name%}
+            <h2>Detail</h2>
+            <p>Username: {{ user.username}} </p>
+            <p>First name: {{ user.first_name }} </p>
+            <p>Last name: {{ user.last_name }} </p>
+            <p>email: {{ user.email }} </p>
+            <p>BIO: {{ user.profile.bio }} </p>
+
+        {% endcache %}
+
+        {% if user.profile.avatar %}
+            <img src="{{ user.profile.avatar.url }}" alt="{{ user.profile.avatar.name }}">
+        {% else %}
+            <h3> no avatar yet </h3>
+        {% endif %}
+
+    {% else %}
+        <h2>user is anonimous</h2>
+
+    {% endif %}
+{% endblock %}
